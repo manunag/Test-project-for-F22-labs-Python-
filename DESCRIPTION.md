@@ -6,4 +6,9 @@ After each guess, the game engine informs the player of the following:
 2. Number of characters that are correct and in the correct place.
 
 Number of total guesses = 20
-The characters in the String are not Repeated
+
+There are two files,
+ 1) f22labs_No_Repetition.py  - The characters in the guessed word are "not repeated"
+ 2) f22labs_With_Repetition.py - The Characters in the guessed word are "repeated"
+
+
