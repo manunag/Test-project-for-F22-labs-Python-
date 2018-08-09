@@ -17,7 +17,7 @@ for i in range(6):
     x.append(alpha[y])
 
     z[y]=0
-print(x)
+
 inp=[]
 guess=20
 inp1=inp
